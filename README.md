@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/bd5cbb2a-d769-46e5-b6b5-84833001dc1f" alt="Prime Cloud Logo" width="400"/>
+<img src="https://github.com/user-attachments/assets/a9c8381a-46e8-45a8-b8b6-0ba4da0b6f6f" alt="Prime Cloud Logo" width="400"/>
 
 # PRIME CLOUD
 
